@@ -1,0 +1,14 @@
+@font-face {
+    font-family: english;
+    src: url('Chomixi3D-Regular.ttf');
+}
+@font-face {
+    font-family:bangla ;
+    src: url('Li\ Alinur\ Akorshon\ Unicode.ttf');
+}
+h1{
+    font-family: english;
+}
+h2{
+    font-family:bangla ;
+}
